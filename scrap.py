@@ -26,14 +26,6 @@ conti = 0
 for i in each_table:
     for j in i.find_all('tr'):
         try:
-            # print("Continent : "+continents[conti])
-            
-            # print("Country : ",j.find_all('td')[0].find('a').text.strip())  # country Name
-            
-            # print("link : ","https://en.wikipedia.org"+str(j.find_all('td')[1].find('a', href=True)[
-            #       'href']))  # wiki link for launch site
-            # launch site name
-            # print("Launch Site Name : ",j.find_all('td')[1].find('a').text.strip())
             if '°' in str(j.find_all('td')[2].find('span', {'class': 'geo-dec'}).text.strip()):
                 #print("Coordinates : "+j.find_all('td')[2].find('span', {'class': 'geo-dec'}).text.strip())  # lat lng N/S W/E
                 s = str(j.find_all('td')[2].find('span', {'class': 'geo-dec'}).text.strip()).split()
@@ -41,14 +33,7 @@ for i in each_table:
                 L2 = float(str(s[1][:-2]))
                 L1 = L1 if str(s[0][-2:]) == "°N" else -1*L1
                 L2 = L2 if str(s[1][-2:]) == "°E" else -1*L2
-                # print("Coordinates (Lat/Long) :",L1,L2)
-            #print("operating date : "+j.find_all('td')[3].text.strip())  # opreational date
-            #print(str(j.find_all('td')[3].text.strip())[-1])
             print("Current Status :",str(j.find_all('td')[3].text.strip())[-1] == '–')
-
-            # print("No. Launches : "+j.find_all('td')[4].text.strip())  # number of launches
-            # print("Max Payload (KG): "+str(j.find_all('td')[5].text.strip()).replace(" ","").replace("kg",""))  # heaviest
-            # print("Max Altitude : "+j.find_all('td')[6].text.strip())  # highest
             count += 1
             csv_conti.append(str(continents[conti]))
             csv_contr.append(str(j.find_all('td')[0].find('a').text.strip()))
@@ -64,15 +49,6 @@ for i in each_table:
     conti+=1
 
 print("# # ##### # #")
-print(count)
-print(len(csv_conti))
-print(len(csv_contr))
-print(len(csv_site))
-print(len(csv_siteLink))
-print(len(csv_lat))
-print(len(csv_lng))
-print(len(csv_opDate))
-print(len(csv_opStatus))
 
 ############ create CSV
 
