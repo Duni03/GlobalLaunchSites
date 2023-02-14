@@ -1,0 +1,125 @@
+NO.,Continent,Country,Launch_Site_name,Launch_site_link,Latitude,Longitude,Opearating_years,Operating_status
+0,Africa,French Algeria,Centre interarmées d'essais d'engins spéciaux (CIEES),https://en.wikipedia.org/wiki/Centre_interarm%C3%A9es_d%27essais_d%27engins_sp%C3%A9ciaux,31.09951,-2.83581,1947-1967,FALSE
+1,Africa,Algeria,Reggane,https://en.wikipedia.org/wiki/Reggane,26.71895,0.27691,1961-1965,FALSE
+2,Africa,Zaire,Shaba North,https://en.wikipedia.org/wiki/Shaba_North,-7.92587,28.52766,1975-1979,FALSE
+3,Africa,Egypt,Jabal Hamzah ballistic missile test and launch facility,https://en.wikipedia.org/wiki/Jabal_Hamzah_ballistic_missile_test_and_launch_facility,30.12575,30.605139,1962-1973,FALSE
+4,Africa,Kenya,Broglio Space Centre (San Marco),https://en.wikipedia.org/wiki/Broglio_Space_Centre,-2.9408,40.2134,1964-1988,FALSE
+5,Africa,Libya,Sabha,"https://en.wikipedia.org/wiki/Sabha,_Libya",26.99392,14.46425,1981-1987,FALSE
+6,Africa,Mauritania,Nouadhibou,https://en.wikipedia.org/wiki/Nouadhibou,20.92856,-17.03153,1973-1973,FALSE
+7,Africa,South Africa,Overberg South African Test Centre,https://en.wikipedia.org/wiki/Overberg_Test_Range,-34.60265,20.30248,"1986-1993, 2000s-",TRUE
+8,Asia,China,Base 603,https://en.wikipedia.org/wiki/Base_603,30.93743,119.20575,1960-1966,FALSE
+9,Asia,China,Jiuquan Satellite Launch Center,https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center,40.96056,100.29833,1970-,TRUE
+10,Asia,China,Taiyuan Satellite Launch Center,https://en.wikipedia.org/wiki/Taiyuan_Satellite_Launch_Center,38.8490861,111.6084972,1980-,TRUE
+11,Asia,China,Xichang Satellite Launch Center,https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center,28.24646,102.02814,1984-,TRUE
+12,Asia,China,Wenchang Satellite Launch Center,https://en.wikipedia.org/wiki/Wenchang_Satellite_Launch_Center,19.6144917,110.9511333,2016-,TRUE
+13,Asia,India,"Dr.Abdul Kalam Island, Bhadrak, Odisha",https://en.wikipedia.org/wiki/Abdul_Kalam_Island,20.75804,87.085533,,TRUE
+14,Asia,India,Vikram Sarabhai Space Centre,https://en.wikipedia.org/wiki/Vikram_Sarabhai_Space_Centre,8.5314,76.869,1962-,TRUE
+15,Asia,India,Satish Dhawan Space Centre (Sriharikota),https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre,13.7374,80.2351,1971-,TRUE
+16,Asia,Indonesia,LAPAN Rocket Launcher Station,https://en.wikipedia.org/wiki/Stasiun_Peluncuran_Roket,-7.646643,107.689018,1965-,TRUE
+17,Asia,Iran,Qom Space Center,https://en.wikipedia.org/wiki/Qom_Space_Center,34.65,50.9,1991,FALSE
+18,Asia,Iran,Emamshahr,https://en.wikipedia.org/wiki/Emamshahr,36.42,55.02,1998,FALSE
+19,Asia,Iran,Semnan spaceport,https://en.wikipedia.org/wiki/Semnan_spaceport,35.234631,53.920941,2009-,TRUE
+20,Asia,Iraq,Al-Anbar Test Center,https://en.wikipedia.org/wiki/Al-Anbar,32.7822,44.29962,1989,FALSE
+21,Asia,Israel,Palmachim Air Force Base,https://en.wikipedia.org/wiki/Palmachim_Airbase,31.88484,34.6802,1987-,TRUE
+22,Asia,Japan,Akita Rocket Range,https://en.wikipedia.org/wiki/Akita_(Akita)#Akita_Rocket_Range,39.57148,140.05785,1956-1990,FALSE
+23,Asia,Japan,Uchinoura Space Center,https://en.wikipedia.org/wiki/Uchinoura_Space_Center,31.25186,131.07914,1962-,TRUE
+24,Asia,Japan,Taiki Aerospace Research Field,https://en.wikipedia.org/wiki/Taiki_Aerospace_Research_Field,42.3,143.2629,2010-,TRUE
+25,Asia,Japan,Tanegashima Space Center,https://en.wikipedia.org/wiki/Tanegashima_Space_Center,30.39096,130.96813,1967-,TRUE
+26,Asia,Japan,Ryori,https://en.wikipedia.org/wiki/Ryori,39.03,141.83,1970-2001,FALSE
+27,Asia,Japan,Niijima,https://en.wikipedia.org/wiki/Niijima_Rocket_Range,34.33766,139.26575,1963-1965,FALSE
+28,Asia,Japan,Obachi,https://en.wikipedia.org/wiki/Obachi,40.70342,141.36938,1961-,TRUE
+29,Asia,Soviet Union,Baikonur Cosmodrome,https://en.wikipedia.org/wiki/Baikonur_Cosmodrome,45.95515,63.35028,1955-,TRUE
+30,Asia,Soviet Union,Sary Shagan,https://en.wikipedia.org/wiki/Sary_Shagan,46.38,72.87,1958-,TRUE
+31,Asia,North Korea,Tonghae Satellite Launching Ground,https://en.wikipedia.org/wiki/Tonghae_Satellite_Launching_Ground,40.85572,129.66587,1998-,TRUE
+32,Asia,North Korea,Sohae Satellite Launching Station,https://en.wikipedia.org/wiki/Sohae_Satellite_Launching_Station,39.66,124.705,2012-,TRUE
+33,Asia,South Korea,Anhueng,https://en.wikipedia.org/wiki/Anhueng,36.70211,126.47158,1993-,TRUE
+34,Asia,South Korea,Naro Space Center,https://en.wikipedia.org/wiki/Naro_Space_Center,34.42585,127.52793,2008-,TRUE
+35,Asia,Maldives,Gan island,https://en.wikipedia.org/wiki/Gan_Island,-0.69328,73.15672,,FALSE
+36,Asia,Pakistan,Sonmiani Satellite Launch Center,https://en.wikipedia.org/wiki/Sonmiani,25.19242,66.74881,1960s-,TRUE
+37,Asia,Pakistan,Tilla Satellite Launch Center,https://en.wikipedia.org/wiki/Tilla,33.3961,73.29608,1980s-,TRUE
+38,Asia,Soviet Union,Kheysa,https://en.wikipedia.org/wiki/Kheysa,80.45,58.05,1956-2008,FALSE
+39,Asia,Soviet Union,Svobodny Cosmodrome,https://en.wikipedia.org/wiki/Svobodny_(launch_site),51.83441,128.2757,1957-2007,FALSE
+40,Asia,Soviet Union,Sovetskaya Gavan,https://en.wikipedia.org/wiki/Sovetskaya_Gavan,48.97,140.3,1963-1964,FALSE
+41,Asia,Soviet Union,Okhotsk,https://en.wikipedia.org/wiki/Okhotsk,59.367,143.25,1981-2005,FALSE
+42,Asia,Russia,Yasny Cosmodrome,https://en.wikipedia.org/wiki/Dombarovsky_(air_base),51.20706,59.85003,2006-,TRUE
+43,Asia,Russia,Vostochny Cosmodrome,https://en.wikipedia.org/wiki/Vostochny_Cosmodrome,51.883,128.333,2016-,TRUE
+44,Asia,Taiwan,Pingtung County,https://en.wikipedia.org/wiki/Pingtung_County,22.1,120.9,1988-,TRUE
+45,Asia,Taiwan,Nantian Launch Facility,https://en.wikipedia.org/wiki/TiSPACE#Nantian_launch_Facility,22.26212,120.89037,2016-,TRUE
+46,Europe,Bulgaria,Ahtopol,https://en.wikipedia.org/wiki/Ahtopol,42.085846,27.955125,1984-1990,FALSE
+47,Europe,France,Ile du Levant,https://en.wikipedia.org/wiki/Ile_du_Levant,43.04507,6.47887,1948-1970,FALSE
+48,Europe,Germany,Rocket Launch Site Berlin,https://en.wikipedia.org/wiki/Rocket_Launch_Site_Berlin,52.35,13.21,1930-1933,FALSE
+49,Europe,Germany,Peenemünde,https://en.wikipedia.org/wiki/Peenem%C3%BCnde_Army_Research_Center,54.143,13.794,1942-1945,FALSE
+50,Europe,West Germany,Cuxhaven,https://en.wikipedia.org/wiki/Rocket_experiments_in_the_area_of_Cuxhaven,53.84884,8.59154,1945-1964,FALSE
+51,Europe,West Germany,Hespenbusch,https://en.wikipedia.org/wiki/Hespenbusch,52.939002,8.312515,1952-1957,FALSE
+52,Europe,Germany,Zingst,https://en.wikipedia.org/wiki/Zingst,54.44008,12.78431,1970-1992,FALSE
+53,Europe,Greece,Koroni,https://en.wikipedia.org/wiki/Koroni,36.7698,21.9316,1966-1989,FALSE
+54,Europe,Iceland,Vik,https://en.wikipedia.org/wiki/V%C3%ADk_%C3%AD_M%C3%BDrdal,63.41891,-19.00463,1964-1965,FALSE
+55,Europe,Italy,Salto di Quirra,https://en.wikipedia.org/wiki/Salto_di_Quirra,39.52731,9.63303,1964-,TRUE
+56,Europe,Norway,Andøya Space Center,https://en.wikipedia.org/wiki/And%C3%B8ya_Space_Center,69.2943,16.0207,1962-,TRUE
+57,Europe,Norway,Marka,https://en.wikipedia.org/wiki/Marka_(launch_site),58.2,7.3,1983-1984,FALSE
+58,Europe,Norway,SvalRak,https://en.wikipedia.org/wiki/SvalRak,78.2234,15.647,1997-,TRUE
+59,Europe,Nazi-occupied Poland,SS-Proving Ground Westpreußen,https://en.wikipedia.org/wiki/Tuchola_Forest,53.6197,17.98492,1944-1945,FALSE
+60,Europe,Germany,Leba in Pommern,https://en.wikipedia.org/wiki/%C5%81eba,54.76904,17.59355,1941-1945,FALSE
+61,Europe,Poland,Łeba-Rąbka,https://en.wikipedia.org/w/index.php?title=%C5%81eba-R%C4%85bka&action=edit&redlink=1,54.754486,17.517919,1963-1973,FALSE
+62,Europe,Nazi-occupied Poland,"V-2 missile launch site, Blizna","https://en.wikipedia.org/wiki/V-2_missile_launch_site,_Blizna",50.1819,21.6162,1943-1944,FALSE
+63,Europe,Soviet Union,Kapustin Yar,https://en.wikipedia.org/wiki/Kapustin_Yar,48.57807,46.2542,1957-,FALSE
+64,Europe,Soviet Union,Nyonoksa,https://en.wikipedia.org/wiki/Nyonoksa,64.64928,39.18721,1965-1997,FALSE
+65,Europe,Soviet Union,Plesetsk Cosmodrome,https://en.wikipedia.org/wiki/Plesetsk_Cosmodrome,62.92556,40.57778,1966-,TRUE
+66,Europe,Spain,El Arenosillo,https://en.wikipedia.org/wiki/El_Arenosillo,37.09687,-6.73863,1966-,TRUE
+67,Europe,Sweden,Nausta,https://en.wikipedia.org/wiki/Nausta,66.357202,19.275813,1961-1961,FALSE
+68,Europe,Sweden,Kronogård,https://en.wikipedia.org/wiki/Kronog%C3%A5rd,66.4147,19.2767,1961-1964,FALSE
+69,Europe,Sweden,Esrange,https://en.wikipedia.org/wiki/Esrange,67.89342,21.10429,1966-,TRUE
+70,Europe,United Kingdom,South Uist,https://en.wikipedia.org/wiki/South_Uist,57.33,-7.33,"1959, 2015, 2022",FALSE
+71,North America,Canada,Churchill Rocket Research Range,https://en.wikipedia.org/wiki/Churchill_Rocket_Research_Range,58.7343,-93.8203,1954-1998,FALSE
+72,North America,Canada,Resolute Bay,https://en.wikipedia.org/wiki/Resolute_Bay,74.687,-94.8962,1966-1971,FALSE
+73,North America,Canada,"Hall Beach, Nunavut",https://en.wikipedia.org/wiki/Sanirajak,68.77607,-81.24346,1971-1971,FALSE
+74,North America,Canada,Southend,"https://en.wikipedia.org/wiki/Southend,_Saskatchewan",56.2,-103.14,1980,FALSE
+75,North America,Canada,Maritime Spaceport,https://en.wikipedia.org/wiki/Maritime_Launch_Services,45.30688,-60.98767,2019-,TRUE
+76,North America,Greenland,Thule Air Base,https://en.wikipedia.org/wiki/Thule_Air_Base,76.424,-68.2936,1964-1980,FALSE
+77,North America,United States,Clark University Physics Laboratory,https://en.wikipedia.org/wiki/Clark_University,42.250977,-71.823169,1914-1920s,FALSE
+78,North America,United States,Goddard Test Site,https://en.wikipedia.org/wiki/Goddard_Rocket_Launching_Site,42.21882,-71.81194,1925-1930,FALSE
+79,North America,United States,Eden Valley Test Site,"https://en.wikipedia.org/wiki/Robert_H._Goddard#Roswell,_New_Mexico",33.626,-104.5,1930-1941,FALSE
+80,North America,United States,Wallops Flight Facility,https://en.wikipedia.org/wiki/Wallops_Flight_Facility,37.84621,-75.47938,1945-,TRUE
+81,North America,United States,White Sands Missile Range,https://en.wikipedia.org/wiki/White_Sands_Missile_Range,32.5646,-106.35908,1945-,TRUE
+82,North America,United States,Nevada Test and Training Range,https://en.wikipedia.org/wiki/Nevada_Test_and_Training_Range,36.7715,-116.11374,1946-1960s,FALSE
+83,North America,United States,Poker Flat Research Range,https://en.wikipedia.org/wiki/Poker_Flat_Research_Range,65.12599,-147.47894,1949-,TRUE
+84,North America,United States,Cape Canaveral Space Force Station,https://en.wikipedia.org/wiki/Cape_Canaveral_Space_Force_Station,28.46675,-80.55852,1949-,TRUE
+85,North America,United States,Vandenberg Space Force Base,https://en.wikipedia.org/wiki/Vandenberg_Space_Force_Base,34.77204,-120.60124,1958-,TRUE
+86,North America,United States,Kennedy Space Center,https://en.wikipedia.org/wiki/Kennedy_Space_Center,28.6082,-80.604,1962-,TRUE
+87,North America,United States,Pacific Missile Range Facility,https://en.wikipedia.org/wiki/Pacific_Missile_Range_Facility,22.02278,-159.785,1963-,TRUE
+88,North America,United States,Keweenaw,https://en.wikipedia.org/wiki/Keweenaw_(Rocket_launch_site),47.4298,-87.71443,1964-1971,FALSE
+89,North America,United States,Pacific Spaceport Complex,https://en.wikipedia.org/wiki/Pacific_Spaceport_Complex_-_Alaska,57.43533,-152.33931,1991-,TRUE
+90,North America,United States,Mid-Atlantic Regional Spaceport,https://en.wikipedia.org/wiki/Mid-Atlantic_Regional_Spaceport,37.833378,-75.483284,1995-,TRUE
+91,North America,United States,Mojave Air and Space Port,https://en.wikipedia.org/wiki/Mojave_Air_and_Space_Port,35.0591,-118.1488,2003-,TRUE
+92,North America,United States,Spaceport America,https://en.wikipedia.org/wiki/Spaceport_America,32.88943,-106.99945,2006-,TRUE
+93,North America,United States,Corn Ranch,https://en.wikipedia.org/wiki/Corn_Ranch,31.2524,-104.4532,2006-,TRUE
+94,North America,United States,Spaceport Camden,https://en.wikipedia.org/wiki/Spaceport_Camden,30.5539,-81.3053,2016-2019,FALSE
+95,North America,United States,SpaceX Starbase Spaceport,https://en.wikipedia.org/wiki/SpaceX_Starbase,25.996,-97.154,2018-,TRUE
+96,North America,United States,Maine Spaceport Complex,https://en.wikipedia.org/wiki/BluShift_Aerospace,44.4444,-67.6,2020-,TRUE
+97,South America,Argentina,Pampa de Achala,https://en.wikipedia.org/wiki/Pampa_de_Achala,-31.5833,-64.8333,1961-1962,FALSE
+98,South America,Argentina,CELPA,https://en.wikipedia.org/wiki/CELPA,-30.12737,-66.34082,"1962-1991, 2010-",TRUE
+99,South America,Argentina,Las Palmas,https://en.wikipedia.org/wiki/Las_Palmas_(Argentina),-27.09531,-58.75352,1966-1966,FALSE
+100,South America,Argentina,Tartagal,"https://en.wikipedia.org/wiki/Tartagal,_Salta",-22.76158,-63.82381,1966-1966,FALSE
+101,South America,Argentina,Mar Chiquita,https://en.wikipedia.org/wiki/Mar_Chiquita_(Buenos_Aires),-37.72427,-57.40512,1968-1972,FALSE
+102,South America,Argentina,Villa Reynolds,https://en.wikipedia.org/wiki/Villa_Reynolds,-33.7246,-65.3773,1973-1973,FALSE
+103,South America,Argentina,Serrezuela,https://en.wikipedia.org/w/index.php?title=Serrezuela&action=edit&redlink=1,-30.6333,-65.3833,2009,FALSE
+104,South America,Argentina,Punta Indio,https://en.wikipedia.org/w/index.php?title=Punta_Indio&action=edit&redlink=1,-35.523889,-57.183889,2011-,TRUE
+105,South America,Argentina,Puerto Belgrano,https://en.wikipedia.org/wiki/Puerto_Belgrano,-38.9628,-61.715,2014-,TRUE
+106,South America,Brazil,Natal-Barreira do Inferno,https://en.wikipedia.org/wiki/Centro_de_Lan%C3%A7amento_da_Barreira_do_Inferno,-5.866,-35.383,1965-,TRUE
+107,South America,Brazil,Praia do Cassino,https://en.wikipedia.org/wiki/Praia_do_Cassino,-32.08338,-52.16725,1966-1966,FALSE
+108,South America,Brazil,Alcântara Launch Center,https://en.wikipedia.org/wiki/Alc%C3%A2ntara_Launch_Center,-2.316,-44.3676,1990-,TRUE
+109,South America,French Guiana,Guiana Space Centre,https://en.wikipedia.org/wiki/Guiana_Space_Centre,5.23739,-52.7695,1968-,TRUE
+110,South America,Peru,Chilca Launch Range,https://en.wikipedia.org/wiki/Chilca,-12.50477,-76.79849,1974-1983,FALSE
+111,South America,Peru,"Chilca PLOB, Punta Lobos Range",https://en.wikipedia.org/wiki/Punta_Lobos,-12.5,-76.8,1983,FALSE
+112,South America,Dutch Suriname,Coronie,https://en.wikipedia.org/wiki/Coronie,5.87241,-56.28908,1965-1965,FALSE
+113,Oceania,Australia,Woomera Test Range,https://en.wikipedia.org/wiki/Woomera_Test_Range,-30.95875,136.50366,1950s-,TRUE
+114,Oceania,Australia,Carnarvon,"https://en.wikipedia.org/wiki/Carnarvon,_Western_Australia",-24.48564,113.40866,1964-1965,FALSE
+115,Oceania,Australia,Lancelin,https://en.wikipedia.org/wiki/Lancelin,-30.98309,115.31774,1974-1974,FALSE
+116,Oceania,Australia,Koonibba Test Range,https://en.wikipedia.org/wiki/Koonibba_Test_Range,-31.885558,133.448686,2019-,TRUE
+117,Oceania,Australia,Whalers Way Orbital Launch Complex,https://en.wikipedia.org/wiki/Whalers_Way_Orbital_Launch_Complex,-34.934,135.6523,2020-,TRUE
+118,Oceania,Australia,Arnhem Space Centre,https://en.wikipedia.org/wiki/Arnhem_Space_Centre,-12.378021,136.821402,2021-,TRUE
+119,Oceania,Marshall Islands,Reagan Test Site,https://en.wikipedia.org/wiki/Reagan_Test_Site,9.048167,167.743083,1950s-,TRUE
+120,Oceania,New Zealand,Birdling's Flat,https://en.wikipedia.org/wiki/Birdling%27s_Flat,-43.817,172.683,1980s-,TRUE
+121,Oceania,New Zealand,Great Mercury Island,https://en.wikipedia.org/wiki/Great_Mercury_Island,-36.35511,175.46006,2009,FALSE
+122,Oceania,New Zealand,Mahia Peninsula,https://en.wikipedia.org/wiki/Mahia_Peninsula,-39.26044,177.86431,2017-,TRUE
+123,In water,Denmark,MLP Sputnik,https://en.wikipedia.org/wiki/Copenhagen_Suborbitals,55.04917,15.60306,2010-,TRUE
