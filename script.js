@@ -1,4 +1,4 @@
-const key = process.env.KEY;
+const key = 'HDjaDoJpgHuEnYrXT4Ck';
 const map = new maplibregl.Map({
   container: 'map', // container's id or the HTML element in which MapLibre GL JS will render the map
   style: `https://api.maptiler.com/maps/174f3e03-2ad9-4ab5-b178-5fa0bbfa7cc1/style.json?key=${key}`, // style URL
