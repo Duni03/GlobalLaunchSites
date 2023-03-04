@@ -1,2 +1,2 @@
 # GlobalLaunchSites
-[Viste Site](https://global-launch-sites.vercel.app/).
+[Visit Site](https://global-launch-sites.vercel.app/).
